@@ -10,11 +10,5 @@
     "post": {
       "belongsTo": "Post"
     }
-  },
-  "Test": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
   }
 }
